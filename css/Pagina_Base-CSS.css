@@ -1,0 +1,159 @@
+.Image-upper-page {
+	position:absolute;
+	right: 0px;
+	top: 0px;
+	height: 120px;
+	margin: 0px;
+	width: 20%;
+	background-color: #5d99bf;
+}
+
+h1 {
+	position:absolute;
+	text-align:left;
+	font-size:43px;
+	color: #5ed9ff;	
+	left:0px;
+	top: 0px;
+	padding-right: 0%;
+	padding-left: 5%;
+	padding-bottom: 29px;
+	padding-top: 29px;
+	width:75%;
+	margin: 0;
+	font-family: "Arial Black", Gadget, sans-serifw;
+	background-color: #000000;
+}
+
+h2 {
+	position: absolute;
+	top: 118px;
+	width: 80%;
+	height: 50px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	left: 0px;
+	background-color: #1d348e;
+	color: white;
+	font-size: 30px;
+	font-family: "Arial Black", Gadget, sans-serifw;
+}
+
+
+#navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 20%;
+	background-color: #1d348e;
+	height: 80%;
+	overflow: auto;
+	position: absolute;
+	overflow: auto;
+	right: 0px;
+	top: 118px;
+	font-family: "Arial Black", Gadget, sans-serifw;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: white;
+	color: black;
+}
+
+.active {
+	background-color: #17286d;
+	color: white;
+}
+
+#containerindex {
+	left: 0px;
+	width: 74%;
+	padding: 3%;
+	top: 160px;
+	position: absolute;
+}
+
+#containervoorkomen {
+	left: 0px;
+	width: 74%;
+	padding: 3%;
+	top: 160px;
+	position: absolute;
+}
+
+#containeroplossen {
+	left: 0px;
+	width: 74%;
+	padding: 3%;
+	top: 160px;
+	position: absolute;
+}
+
+#containerwetgeving {
+	left: 0px;
+	width: 74%;
+	padding: 3%;
+	top: 160px;
+	position: absolute;
+}
+
+#containerveiligheid {
+	left: 0px;
+	width: 74%;
+	padding: 3%;
+	top: 160px;
+	position: absolute;
+}
+
+
+#containersocialmedia {
+	left: 0px;
+	width: 74%;
+	padding: 3%;
+	top: 160px;
+	position: absolute;
+}
+
+#containerwaaromjouwinformatie {
+	left: 0px;
+	width: 74%;
+	padding: 3%;
+	top: 160px;
+	position: absolute;
+}
+
+#containerindentiteitsfraude {
+	left: 0px;
+	width: 74%;
+	padding: 3%;
+	top: 160px;
+	position: absolute;
+}
+
+#containercookies {
+	left: 0px;
+	width: 74%;
+	padding: 3%;
+	top: 160px;
+	position: absolute;
+}
+
+#containerdigitalesporen {
+	left: 0px;
+	width: 74%;
+	padding: 3%;
+	top: 160px;
+	position: absolute;
+}
+
+
+
