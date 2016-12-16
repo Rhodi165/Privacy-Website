@@ -1,58 +1,58 @@
 .Image-upper-page {
-	position:absolute;
+	position: fixed;
 	right: 0px;
 	top: 0px;
 	height: 120px;
 	margin: 0px;
-	width: 20%;
+	width: 200px;
 	background-color: #5d99bf;
 }
 
 h1 {
-	position:absolute;
+	position:fixed;
 	text-align:left;
 	font-size:43px;
 	color: #5ed9ff;	
 	left:0px;
 	top: 0px;
+	right: 200px;
 	padding-right: 0%;
 	padding-left: 5%;
 	padding-bottom: 29px;
 	padding-top: 29px;
-	width:75%;
 	margin: 0;
 	font-family: "Arial Black", Gadget, sans-serifw;
 	background-color: #000000;
+	z-index: 1;
 }
 
 h2 {
-	position: absolute;
+	position: fixed;
 	top: 118px;
-	width: 80%;
 	height: 50px;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	text-align: center;
 	left: 0px;
+	right:200px;
 	background-color: #1d348e;
 	color: white;
 	font-size: 30px;
 	font-family: "Arial Black", Gadget, sans-serifw;
+	z-index: 1;
 }
 
 
 #navbar {
 	list-style-type: none;
+	position: fixed;
 	margin: 0;
 	padding: 0;
-	width: 20%;
+	width: 200px;
 	background-color: #1d348e;
-	height: 80%;
-	overflow: auto;
-	position: absolute;
-	overflow: auto;
 	right: 0px;
 	top: 118px;
+	bottom: 0px;
 	font-family: "Arial Black", Gadget, sans-serifw;
 }
 
@@ -76,83 +76,115 @@ li a:hover {
 
 #containerindex {
 	left: 0px;
-	width: 74%;
+	right: 100px;
 	padding: 3%;
 	top: 160px;
 	position: absolute;
+	margin-right:100px;
+	margin-top: 10px;
 }
 
 #containervoorkomen {
 	left: 0px;
-	width: 74%;
+	right: 100px;
 	padding: 3%;
 	top: 160px;
-	position: absolute;
+	bottom: 2px;
+	position: fixed;
+	margin-right:100px;
+	margin-top: 10px;
+	overflow: auto;
 }
+
 
 #containeroplossen {
 	left: 0px;
-	width: 74%;
+	right: 100px;
 	padding: 3%;
 	top: 160px;
 	position: absolute;
+	margin-right:200px;
+	margin-top: 10px;
 }
+
 
 #containerwetgeving {
 	left: 0px;
-	width: 74%;
+	right: 100px;
 	padding: 3%;
 	top: 160px;
 	position: absolute;
+	margin-right:200px;
+	margin-top: 10px;
 }
+
 
 #containerveiligheid {
 	left: 0px;
-	width: 74%;
+	right: 100px;
 	padding: 3%;
 	top: 160px;
 	position: absolute;
+	margin-right:200px;
+	margin-top: 10px;
 }
+
 
 
 #containersocialmedia {
 	left: 0px;
-	width: 74%;
+	right: 100px;
 	padding: 3%;
 	top: 160px;
 	position: absolute;
+	margin-right:200px;
+	margin-top: 10px;
 }
+
 
 #containerwaaromjouwinformatie {
 	left: 0px;
-	width: 74%;
+	right: 100px;
 	padding: 3%;
 	top: 160px;
 	position: absolute;
+	margin-right:200px;
+	margin-top: 10px;
 }
 
 #containerindentiteitsfraude {
 	left: 0px;
-	width: 74%;
+	right: 100px;
 	padding: 3%;
 	top: 160px;
 	position: absolute;
+	margin-right:200px;
+	margin-top: 10px;
 }
 
 #containercookies {
 	left: 0px;
-	width: 74%;
+	right: 100px;
 	padding: 3%;
 	top: 160px;
 	position: absolute;
+	margin-right:200px;
+	margin-top: 10px;
 }
+
 
 #containerdigitalesporen {
 	left: 0px;
-	width: 74%;
+	right: 100px;
 	padding: 3%;
 	top: 160px;
 	position: absolute;
+	margin-right:200px;
+	margin-top: 10px;
+}
+
+.img-content {
+	right:200px;
 }
 
 
